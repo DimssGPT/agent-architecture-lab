@@ -1,0 +1,14 @@
+
+## Quick start
+
+1. Open Claude Code / Cursor / Grok
+2. Paste the prompt above
+3. Let the agent generate the full project
+4. Deploy to Vercel in one click
+
+## Deploy
+
+```bash
+npm install
+npm run dev
+# then deploy to Vercel
